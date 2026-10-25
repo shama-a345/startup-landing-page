@@ -1,4 +1,3 @@
-import React from 'react'
 import { Phone, ipad, team1, team2, team3, team4, team5, team6 } from '../../assets/images'
 
 const Home = () => {
