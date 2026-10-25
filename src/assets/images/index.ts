@@ -1,4 +1,4 @@
-export {default as Phone} from "../images/phone.png";
+export {default as Phone} from "../images/Phone.png";
 export {default as ipad} from "../images/ipad.png";
 export {default as team1} from "../images/team1.jpg";
 export {default as team2} from "../images/team2.jpg";
